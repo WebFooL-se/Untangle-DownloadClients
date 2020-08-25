@@ -2,7 +2,7 @@
 Download all your OpenVPN clients configuration files. 
 
 Copy the python file to the local filesystem of your untangle. (SSH/SCP)  
-Ex: /tmp/vpnclients (you have to create the vpnclients folder)  
+Ex: /tmp/vpnclients (you have to create the vpnclients folder "mkdir /tmp/vpnclients")  
 
 "cd /tmpvpnclients"  
 "python get-clients.py"  
